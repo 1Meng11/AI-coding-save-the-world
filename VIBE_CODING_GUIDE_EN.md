@@ -1,6 +1,4 @@
-# 1. Vibe Coding Overview
-
-**Teaching Objective:** Understand the core philosophy of Vibe Coding, establish correct understanding of AI-assisted programming as "discussing ideas" rather than "autonomous driving," and see its potential applications in edge cases.
+# 1.Vibe coding is not as easy as it seems.
 
 ## 1.1 What is Vibe Coding?
 
